@@ -1,0 +1,23 @@
+# Core
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+statsmodels
+jupyter
+
+# Gradient boosting and imbalanced learning
+lightgbm
+catboost
+imbalanced-learn
+lofo-importance
+
+# Text and NLP
+nltk
+pymystem3
+
+# Deep learning (computer vision project only)
+tensorflow

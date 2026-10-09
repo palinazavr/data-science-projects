@@ -1,0 +1,15 @@
+# Datasets (training data from the course is not redistributed)
+*.csv
+*.zip
+faces/
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
